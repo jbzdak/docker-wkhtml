@@ -3,4 +3,4 @@ services:
   wkhtml:
     build:
       context: .
-    image: jbzdak/docker-wkhtmltopdf:latest
+    image: jbzdak/docker-wkhtml:latest
