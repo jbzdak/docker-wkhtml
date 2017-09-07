@@ -1,0 +1,6 @@
+version: "3.0"
+services:
+  wkhtml:
+    build:
+      context: .
+    image: jbzdak/docker-wkhtmltopdf:latest
